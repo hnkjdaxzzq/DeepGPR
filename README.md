@@ -129,6 +129,7 @@
     <td align="center"><a href="https://faculty.csu.edu.cn/leiwentai/zh_CN/index.htm"><img src="avatar/lwt.jpg" width="100px;" alt=""/><br /><sub><b>指导教师: 雷文太教授</b></sub></a></td>
     <td align="center"><a href="https://github.com/hnkjdaxzzq"><img src="avatar/zzq.jpg" width="100px;" alt=""/><br /><sub><b>22级硕士研究生：郑智钦</b></sub></a></td>
     <td align="center"><a href="https://github.com/xiye-csu"><img src="avatar/wym.png" width="100px;" alt=""/><br /><sub><b>24级硕士研究生：王以明</b></sub></a></td>
+
 [//]: # (    <td align="center"><a href="https://github.com/username3"><img src="https://via.placeholder.com/100" width="100px;" alt=""/><br /><sub><b>研究生B</b></sub></a></td>)
   </tr>
 </table>
